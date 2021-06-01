@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">M1</string>
+    <string name="enviar_alerta">Enviar Alerta</string>
+    <string name="api_key">AIzaSyA9r9VKV45qCWjHDC7GnRp09KvlKc23SVs</string>
+
+    <string-array name="list">
+        <item>Enfermedad Cardiovascular</item>
+        <item>Crisis asmatica</item>
+        <item>Enfermedad Pulmonar Obstructiva Crónica (EPOC)</item>
+        <item>Neumonía</item>
+        <item>Bronquilitis</item>
+        <item>Dolor abdominal</item>
+        <item>Enfermedad diarreica aguda</item>
+        <item>Politraumatismos</item>
+        <item>Descompensación diabética</item>
+        <item>Otro</item>
+
+    </string-array>
+
+
+</resources>
